@@ -5,4 +5,9 @@ This repository contains codes for reproducing some figures in the TFCGAN articl
 
 
 
+<<<<<<< HEAD
 <image src="https://github.com/resfahani/TFCGAN/blob/master/fig/Flowchart.pdf"/>
+=======
+
+[embed]./fig/Flowchart.pdf[/embed] 
+>>>>>>> 8a17a1a (.)

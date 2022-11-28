@@ -3,6 +3,6 @@
 
 This repository contains codes for reproducing some figures in the TFCGAN article. The following figure shows the flowchart of the proposed approach. 
 
-![](./fig/Flowchart.pdf)
+![some description](./fig/Flowchart.pdf)
 
 <embed src="./fig/Flowchart.pdf" type="application/pdf">

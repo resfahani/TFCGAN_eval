@@ -4,4 +4,4 @@
 This repository contains codes for reproducing some figures in the TFCGAN article. The following figure shows the flowchart of the proposed approach. 
 
 
-<iframe width="100%" height="800" src="./fig/Flowchart.pdf">
+[embed]./fig/Flowchart.pdf[/embed] 

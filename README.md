@@ -3,5 +3,5 @@
 
 This repository contains codes for reproducing some figures in the TFCGAN article. The following figure shows the flowchart of the proposed approach. 
 
+<embed src="https://github.com/resfahani/TFCGAN/blob/master/fig/Flowchart.pdf" type="application/pdf">
 
-[embed]https://github.com/resfahani/TFCGAN/blob/master/fig/Flowchart.pdf[/embed] 

@@ -9,5 +9,9 @@ This repository contains codes for reproducing some figures in the TFCGAN articl
 <image src="https://github.com/resfahani/TFCGAN/blob/master/fig/Flowchart.pdf"/>
 =======
 
+<<<<<<< HEAD
 [embed]./fig/Flowchart.pdf[/embed] 
 >>>>>>> 8a17a1a (.)
+=======
+![alt text](.fig/Flowchart.jpg?raw=true)
+>>>>>>> 1252bab (.)

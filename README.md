@@ -5,4 +5,9 @@
 This repository contains codes for reproducing some figures in the TFCGAN article. The following figure shows the flowchart of the proposed approach. 
 
 
+
 ![alt text](./fig/Flowchart.jpg?raw=true)
+
+## Model
+
+## Data 

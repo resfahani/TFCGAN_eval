@@ -3,6 +3,5 @@
 
 This repository contains codes for reproducing some figures in the TFCGAN article. The following figure shows the flowchart of the proposed approach. 
 
-![some description](./fig/Flowchart.pdf)
 
-<embed src="./fig/Flowchart.pdf" type="application/pdf">
+<iframe width="100%" height="800" src="./fig/Flowchart.pdf">

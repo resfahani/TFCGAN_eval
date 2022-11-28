@@ -3,5 +3,5 @@
 
 This repository contains codes for reproducing some figures in the TFCGAN article. The following figure shows the flowchart of the proposed approach. 
 
-![some discription](./fig/Flowchart.pdf "some discription")
+![](./fig/Flowchart.pdf)
 

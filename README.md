@@ -11,3 +11,5 @@ This repository contains codes for reproducing some figures in the TFCGAN articl
 ## Model
 
 ## Data 
+
+update require

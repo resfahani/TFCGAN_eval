@@ -5,17 +5,18 @@ import numpy as np
 
 
 def discriminator_loss(real_img, fake_img):
+    # Real data discriminator loss
     real_loss = tf.reduce_mean(real_img)
+
+    # Fake data discriminator loss
     fake_loss = tf.reduce_mean(fake_img)
-    reg = tf.nn.relu(fake_loss*fake_loss)
 
-    return fake_loss - real_loss #  + 0.000 * reg
+    return fake_loss - real_loss 
 
-
-#def discriminator_loss2(real_img, fake_img):
-#    return K.mean(real_img * fake_img)
 
 def generator_loss(fake_img):
+
+    # Fake data generator loss
     return -tf.reduce_mean(fake_img)
 
 

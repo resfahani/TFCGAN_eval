@@ -13,7 +13,7 @@ class MModel(tf.keras.Model):
         self.img_cols = 248
         self.channels = 1
         
-        self.latent_dim = 100
+        self.latent_dim = 200
         
         self.label  = 3
         self.label1  = 1
